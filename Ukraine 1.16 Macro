@@ -13,4 +13,7 @@
     *Button6::к ; glowstone and anchors part 2
 }
 
+; NOTES:
+; do 4, 2, 3 to access quartz and nether brick
+
 RCtrl::Suspend
