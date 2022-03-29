@@ -13,7 +13,7 @@
     *Button6::к ; glowstone and anchors part 2
 }
 
-; NOTES:
 ; do 4, 2, 3 to access quartz blocks and nether brick
+; do 2, 3 to make golden tools
 
 RCtrl::Suspend
