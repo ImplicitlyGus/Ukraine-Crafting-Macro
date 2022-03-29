@@ -1,0 +1,23 @@
+#IfWinActive, Minecraft*
+{
+    *1::и ; ingots, axes, and pickaxes
+
+    *2::о ; insomniac crafts p1
+
+    *3::с ; insomniac crafts p2
+
+    *4::щ ; shield (basically every run)
+
+    *Button5::т ; fletching table and brewing stand part 1
+
+    *Button6::і ; fletching table and brewing stand part 2
+}
+
+
+; do 2, 3 to make golden tools
+; do 2, 3 for slabs for a composter
+; do 1, B5 for shield and ingots
+; do 2, 3 or 3, 2 for composter and golden axe (best for first day insomniac)
+
+
+RCtrl::Suspend
